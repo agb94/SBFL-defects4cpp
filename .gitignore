@@ -139,3 +139,11 @@ cython_debug/
 
 # PyCharm configuration folder
 .idea
+
+
+# SM
+figures/
+results/
+errors*.csv
+output*.csv
+SBFL.png
